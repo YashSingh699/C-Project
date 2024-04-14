@@ -1,4 +1,4 @@
-Command Line Tool :
+#Command Line Tool :
 
 Step 1: Clone th repo into you local machine. <br />
 step 2: Compile wc.cpp program using g++ -o  wc wc.cpp (here in place of "wc" you can enter any name that suite you that will set up name for your .exe file) 
